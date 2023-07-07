@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/Jay-flow/flow-node-ts#readme",
   "devDependencies": {
-    "@types/node": "^16.7.10",
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
-    "nodemon": "^2.0.12",
-    "prettier": "^2.3.2",
-    "shx": "^0.3.3",
-    "typescript": "^4.4.2"
+    "@types/node": "^20.4.0",
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^3.0.0",
+    "shx": "^0.3.4",
+    "typescript": "^5.1.6"
   }
 }
